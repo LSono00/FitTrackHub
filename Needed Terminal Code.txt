@@ -1,0 +1,29 @@
+Needed Terminal Code
+
+Open MySQL: & "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" -u root -p
+Password: _Ilovedad00
+
+Railway URL
+fittrack-hub-backend-production.up.railway.app
+
+
+
+All for Backend
+
+Commit and Push Updates to GitHub
+
+git status
+
+git add .
+
+git commit -m ""
+
+git push
+
+
+
+Password (Token) for GitHub through Terminal
+
+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
+
+
