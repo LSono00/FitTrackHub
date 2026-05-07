@@ -141,3 +141,4 @@ This project complies fully with the course policy:
 - **AI Assistance:** Used only for explanations, debugging, and documentation.  
 - **Documentation:** This AI usage summary serves as the required prompt log.
 
+To be fully transparent I also used Copilot to create this prompt log after I completed the project in order for it to ensure that I logged the proper things that I used AI for rather than attempting to remember myself. So this was created by AI at the end of the chat that I used to ask every question I needed so Copilot knew everything that I asked for help with and was able to log it here.
